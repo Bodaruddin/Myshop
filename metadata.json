@@ -1,0 +1,6 @@
+{
+  "name": "ElectroGlass",
+  "description": "Premium Electronics Shop Management app with liquid glass UI, inventory, sales, stock tracking, invoices, and offline SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
